@@ -1,0 +1,8 @@
+OrderID,OrderValueUSD,Country,City,ProductCode,CustomerNotes,DeliveryContext,CustomerType
+ORD201,4200,India,Mumbai,KX1001,"I am traveling tomorrow. Please handle this carefully.","Hotel delivery, flexible timing","Premium"
+ORD202,1800,UAE,Dubai,KX1005,"This is a gift. Timing matters but discretion matters more.","Home delivery, do not call before arrival","New"
+ORD203,7600,USA,New York,KX1010,"Not sure where I will be, but I need this soon.","Possible address change","VIP"
+ORD204,950,India,Pune,KX1022,"I trust your judgment.","Standard delivery","Returning"
+ORD205,5200,UK,London,KX1001,"This is important, but I don’t want problems.","Office delivery, business hours","Corporate"
+ORD206,3000,UAE,Abu Dhabi,KX1015,"Please don’t rush if it risks quality.","No urgency mentioned","Premium"
+ORD207,1500,India,Bangalore,KX1020,"Need it fast, but I might not be available.","Evening delivery only","New"

@@ -1,0 +1,21 @@
+ORDER ORD201
+Recommended action: I am traveling tomorrow. Please handle this carefully.
+
+ORDER ORD202
+Recommended action: Call before arrival
+
+ORDER ORD203
+Recommended action: Not sure where I will be, but I need this soon.
+
+ORDER ORD204
+Recommended action: I trust your judgment.
+
+ORDER ORD205
+Recommended action: I will not be able to deliver the package.
+
+ORDER ORD206
+Recommended action: Immediately
+
+ORDER ORD207
+Recommended action: I'll be available.
+

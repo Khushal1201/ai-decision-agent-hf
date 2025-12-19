@@ -1,0 +1,100 @@
+[
+  {
+    "order_id": "ORD201",
+    "interpreted_intent": "Customer intent is ambiguous and context-dependent",
+    "confidence_level": "Medium",
+    "key_risks_identified": [
+      "Misinterpretation of customer intent",
+      "Expectation mismatch"
+    ],
+    "recommended_action": "I am traveling tomorrow. Please handle this carefully.",
+    "alternative_action_considered": "Immediate fulfillment without confirmation",
+    "why_alternative_was_rejected": "Risky due to lack of clarity",
+    "assumptions_made": "Customer prefers cautious handling",
+    "restraint_applied": "Avoided forcing decisions"
+  },
+  {
+    "order_id": "ORD202",
+    "interpreted_intent": "Customer intent is ambiguous and context-dependent",
+    "confidence_level": "Medium",
+    "key_risks_identified": [
+      "Misinterpretation of customer intent",
+      "Expectation mismatch"
+    ],
+    "recommended_action": "Call before arrival",
+    "alternative_action_considered": "Immediate fulfillment without confirmation",
+    "why_alternative_was_rejected": "Risky due to lack of clarity",
+    "assumptions_made": "Customer prefers cautious handling",
+    "restraint_applied": "Avoided forcing decisions"
+  },
+  {
+    "order_id": "ORD203",
+    "interpreted_intent": "Customer intent is ambiguous and context-dependent",
+    "confidence_level": "Medium",
+    "key_risks_identified": [
+      "Misinterpretation of customer intent",
+      "Expectation mismatch"
+    ],
+    "recommended_action": "Not sure where I will be, but I need this soon.",
+    "alternative_action_considered": "Immediate fulfillment without confirmation",
+    "why_alternative_was_rejected": "Risky due to lack of clarity",
+    "assumptions_made": "Customer prefers cautious handling",
+    "restraint_applied": "Avoided forcing decisions"
+  },
+  {
+    "order_id": "ORD204",
+    "interpreted_intent": "Customer intent is ambiguous and context-dependent",
+    "confidence_level": "Medium",
+    "key_risks_identified": [
+      "Misinterpretation of customer intent",
+      "Expectation mismatch"
+    ],
+    "recommended_action": "I trust your judgment.",
+    "alternative_action_considered": "Immediate fulfillment without confirmation",
+    "why_alternative_was_rejected": "Risky due to lack of clarity",
+    "assumptions_made": "Customer prefers cautious handling",
+    "restraint_applied": "Avoided forcing decisions"
+  },
+  {
+    "order_id": "ORD205",
+    "interpreted_intent": "Customer intent is ambiguous and context-dependent",
+    "confidence_level": "Medium",
+    "key_risks_identified": [
+      "Misinterpretation of customer intent",
+      "Expectation mismatch"
+    ],
+    "recommended_action": "I will not be able to deliver the package.",
+    "alternative_action_considered": "Immediate fulfillment without confirmation",
+    "why_alternative_was_rejected": "Risky due to lack of clarity",
+    "assumptions_made": "Customer prefers cautious handling",
+    "restraint_applied": "Avoided forcing decisions"
+  },
+  {
+    "order_id": "ORD206",
+    "interpreted_intent": "Customer intent is ambiguous and context-dependent",
+    "confidence_level": "Medium",
+    "key_risks_identified": [
+      "Misinterpretation of customer intent",
+      "Expectation mismatch"
+    ],
+    "recommended_action": "Immediately",
+    "alternative_action_considered": "Immediate fulfillment without confirmation",
+    "why_alternative_was_rejected": "Risky due to lack of clarity",
+    "assumptions_made": "Customer prefers cautious handling",
+    "restraint_applied": "Avoided forcing decisions"
+  },
+  {
+    "order_id": "ORD207",
+    "interpreted_intent": "Customer intent is ambiguous and context-dependent",
+    "confidence_level": "Medium",
+    "key_risks_identified": [
+      "Misinterpretation of customer intent",
+      "Expectation mismatch"
+    ],
+    "recommended_action": "I'll be available.",
+    "alternative_action_considered": "Immediate fulfillment without confirmation",
+    "why_alternative_was_rejected": "Risky due to lack of clarity",
+    "assumptions_made": "Customer prefers cautious handling",
+    "restraint_applied": "Avoided forcing decisions"
+  }
+]
