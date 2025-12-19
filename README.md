@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Decision Agent – Level 2 Challenge
 
 ## Overview
@@ -84,3 +85,6 @@ Generates structured JSON and TXT decision dossiers
 Applies restraint and cautious recommendations when uncertainty exists
 
 This demonstrates the ability to think, reason, and act under ambiguity, fulfilling the Level-2 challenge requirements.
+=======
+# ai-decision-agent-hf
+>>>>>>> de25e7a079997ebb07ec6980eb7d0b973c98add6
