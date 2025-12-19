@@ -12,13 +12,14 @@ It demonstrates **decision-making under ambiguity**, focusing on reasoning, risk
 
 ai-decision-agent-hf/
 │
-├── run.py # Entry point to run the agent
+├── run.py                   # Entry point to run the agent
 ├── agent/
-│ ├── init.py # Required for package structure
-│ └── decision_agent.py # Main agent logic
+│   ├── __init__.py          # Required for package structure
+│   └── decision_agent.py    # Main agent logic
 ├── data/
-│ └── orders_level2.csv # Input CSV with customer orders
-└── outputs/ # Generated outputs (JSON + TXT)
+│   └── orders_level2.csv    # Input CSV with customer orders
+├── outputs/                 # Generated outputs (JSON + TXT)
+└── README.md                # Project README
 
 ---
 
