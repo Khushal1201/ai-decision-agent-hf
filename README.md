@@ -72,19 +72,3 @@ Designed to demonstrate AI agent behavior under ambiguity rather than determinis
 
 Safe for Level-2 evaluation: handles vague, emotional, and contradictory customer notes effectively.
 
-#### Summary
-
-This project provides a full AI Decision Agent pipeline:
-
-Reads order CSV with customer notes
-
-Uses LLM to reason about intent and risks
-
-Generates structured JSON and TXT decision dossiers
-
-Applies restraint and cautious recommendations when uncertainty exists
-
-This demonstrates the ability to think, reason, and act under ambiguity, fulfilling the Level-2 challenge requirements.
-=======
-# ai-decision-agent-hf
->>>>>>> de25e7a079997ebb07ec6980eb7d0b973c98add6
